@@ -1,0 +1,11 @@
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\bin\Debug\SPListUtility.exe
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\bin\Debug\SPListUtility.pdb
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\obj\x86\Debug\SPListUtility.Form1.resources
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\obj\x86\Debug\SPListUtility.Properties.Resources.resources
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\obj\x86\Debug\SPListUtility.exe
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\obj\x86\Debug\SPListUtility.pdb
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\bin\Debug\Microsoft.SharePoint.dll
+c:\users\btomashvili\documents\visual studio 2010\Projects\SPListUtility\SPListUtility\bin\Debug\Microsoft.SharePoint.xml
